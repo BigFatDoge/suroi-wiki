@@ -24,6 +24,8 @@ All crates drop some sort of loot. The Regular Crate drops the [lowest quality l
 - Crates were amongst the first obstacles added to the game.
 
 # History
+- v0.17.0
+  - New texture for Melee Crates
 - v0.15.0
   - Added the Grenade Crate
 - v0.5.0
