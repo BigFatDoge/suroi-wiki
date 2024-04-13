@@ -30,6 +30,8 @@ Gauze is a very common drop from crates, toilets, and the toilet in a Porta Pott
 
 # History
 
+- v0.17.0
+  - New Texture
 - v0.8.0
   - Usage time increased to 3s (from 2s)
 - v0.5.0
