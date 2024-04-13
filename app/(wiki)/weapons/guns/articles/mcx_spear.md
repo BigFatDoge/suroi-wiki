@@ -36,7 +36,8 @@ The MCX Spear is found rarely as world loot in locations such as [Regular Crates
   - In addition to the standard .277 SIG FURY, it is also available with a 6.5mm Creedmoor barrel
 
 # History
-
+- v0.17.0
+  - New Texture 
 - v0.12.2
   - Firing speed penalty decreased to 25% (from 35%)
   - Recoil duration decreased to 130ms (from 240)
